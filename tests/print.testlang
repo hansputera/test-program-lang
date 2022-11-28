@@ -1,0 +1,5 @@
+echo("hey"); # print hey
+echo('hey'); # print hey
+
+echo(1); # print 1
+echo(1 * 3 + 4 * 3); // print 15

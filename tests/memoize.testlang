@@ -1,0 +1,3 @@
+nama: "Hanif Dwy Putra S";
+
+echo(nama);
