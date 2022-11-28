@@ -14,3 +14,9 @@ nama: "Jono Sutejo";
 
 echo(nama); // Jono Sutejo
 ```
+
+## Run
+0. clone this repo
+1. run `go build`
+2. run `./testlang <script_file>`
+3. done
